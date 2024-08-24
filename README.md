@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Sarkar bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/sarKarji1" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Sarkar bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/sarKarji1" target="_blank">Sarkar</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
